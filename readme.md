@@ -6,18 +6,18 @@ In this task operations are performed with rational numbers
 ///
 //
 
+//12323
 
 
 
-<<<<<<< HEAD
 ///
 =======
->>>>>>> second_branch
 
 
 
 
-<<<<<<< HEAD
+
+
 
 **********
 =======
